@@ -18,6 +18,7 @@ I hunt free crypto airdrops and whitelists, train as a bug bounty hunter, and bu
 ## Featured projects
 
 - [airdrop-desk](https://github.com/acillnakamoto12/airdrop-desk) — free, private tracker for airdrops & whitelists: deadlines, daily claims, JSON export ([live demo](https://acillnakamoto12.github.io/airdrop-desk/))
+- [web3-tools](https://github.com/acillnakamoto12/web3-tools) — read-only Web3 toolbox: crypto funding tracker, whale wallet watch (EVM, Bitcoin, Solana), live prices & gas ([live demo](https://acillnakamoto12.github.io/web3-tools/))
 - [token-radar-01](https://github.com/acillnakamoto12/token-radar-01) — every pre-token protocol ranked by implied value (make.fun bounty entry, $1,325 pool)
 - [news-image-20261120](https://github.com/acillnakamoto12/news-image-20261120) — one image summing up the world's news of 20 November 2026
 - [news-image-20261118](https://github.com/acillnakamoto12/news-image-20261118) — one image summing up the world's news of 18 November 2026
